@@ -8,8 +8,8 @@ Frontend developer with one year of experience and a passion for creating modern
 
 * 🌍  I'm based in Serbia.
 * ✉️  You can contact me at [madjardusan@gmail.com](mailto:madjardusan@gmail.com)
-* 🚀  I'm currently working on [Natours](https://natours-dusan.netlify.app/) and my portfolio website [Website](https://dusan-madjar.netlify.app/)
-* 🧠  I'm learning SASS and raise knowledge to a higher level in HTML, CSS and JS.
+* 🧠  I take current knowledge to the next level in HTML, CSS, JS and SCSS.
+
 
 ### Skills
 
