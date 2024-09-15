@@ -9,7 +9,7 @@ Frontend developer with experience and a passion for creating modern and respons
 *   🌍  I'm based in Serbia
 *   🖥️  See my portfolio at [dusan-madjar](http://dusan-madjar.netlify.app)
 *   ✉️  You can contact me at [madjardusan@gmail.com](mailto:madjardusan@gmail.com)
-*   🧠  I'm learning Next.js
+*   🧠  I'm learning Next.js TypeScript
 *   ⚡  I train and compete in street workout
   ### Skills 
 <p align="left">
